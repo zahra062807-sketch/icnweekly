@@ -13,20 +13,20 @@
     <table border="1" align="center" cellspacing="0" cellpadding="10px">
         <tr>
             <td>
-                <a href="index.html">Home</a>
+                <a href="index.php">Home</a>
             </td>
             <td>
-                <a href="profile.html">Profile</a>
+                <a href="profile.php">Profile</a>
             </td>
             <td>
-                <a href="contact.html">Contact</a>
+                <a href="contact.php">Contact</a>
             </td>
             <td>
-                <a href="mahasiswa.html">Data Mahasiswa</a>
+                <a href="mahasiswa.php">Data Mahasiswa</a>
             </td>
-            <td><a href="form-mahasiswa.html">Form Mahasiswa</a></td>
+            <td><a href="form-mahasiswa.php">Form Mahasiswa</a></td>
             <td>
-                <a href="tugastabel.html">Tugas Tabel</a>
+                <a href="tugastabel.php">Tugas Tabel</a>
             </td>
         </tr>
     </table>

@@ -12,12 +12,12 @@
 
      <table border="1" align="center" cellspacing="0" cellpadding="10px">
             <tr>
-                <td><a href="index.html">Home</a></td>
-                <td><a href="profile.html">Profile</a></td>
-                <td><a href="contact.html">Contact</a></td>
-                <td><a href="data-mahasiswa.html">Data Mahasiswa</a></td>
-                <td><a href="form-mahasiswa.html">Form Mahasiswa</a></td>
-                <td><a href="tugastabel.html">Tugas Tabel</a></td>
+                <td><a href="index.php">Home</a></td>
+                <td><a href="profile.php">Profile</a></td>
+                <td><a href="contact.php">Contact</a></td>
+                <td><a href="data-mahasiswa.php">Data Mahasiswa</a></td>
+                <td><a href="Tambah Data.php">Tambah Data</a></td>
+                <td><a href="tugastabel.php">Tugas Tabel</a></td>
             </tr>
         </table>
 <h2>Form Data Mahasiswa</h2>
